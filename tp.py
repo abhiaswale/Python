@@ -1,3 +1,0 @@
-#Enter your code here...
-num1,num2=input("ENter 2 numbers :").split("")
-print(num1*num2)
