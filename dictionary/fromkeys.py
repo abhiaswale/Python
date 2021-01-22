@@ -1,0 +1,6 @@
+d=dict.fromkeys(range(1,3),['1234'])
+# # d.clear()
+# d1=d.copy()
+# op=d1.popitem()
+# print(d)
+print(d.get('5'))
