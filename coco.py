@@ -3,4 +3,4 @@ age=int(age)
 if name[0]=='a' or 'A' and age>10:
     print("You can watch the movie")
 else:
-    print("You cannot watch movie")    
+    print("You cannot watch the movie")    
